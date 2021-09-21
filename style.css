@@ -1,0 +1,69 @@
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+.navbar{
+    background-color: #2F2E41;
+}
+
+.navbar a:hover{
+	background-color: #ddd;
+	color: black;
+}
+
+
+/* Jumbotron */
+.jumbotron{
+    background-image: url(asset/jumbotron3.jpg);
+    height: 580px;
+    background-size: cover;
+}
+
+.jumbotron .container{
+    width: 95%;
+}
+
+.jumbotron .display-4{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 70px;
+    text-shadow: 3px 3px 10px black;
+}
+
+/* Kelas */
+.kelas p{
+    font-size: 14px;
+    margin: 10px auto;
+}
+
+/* Benefit */
+.benefit h5{
+    margin-top: 20px;
+    margin-left: 15px;
+    font-weight: bold;
+
+}
+
+.benefit p{
+    margin-left: 15px;
+}
+
+/* testimonials */
+.testimonial img{
+    display: block;
+    margin: 25px auto;
+    border: 1px solid black;
+}
+
+/* footer */
+footer{
+    background-color: #47465A;
+}
+
+footer h4{
+    margin-top: 15px;
+    color: white;
+    font-size: 18px;
+}
